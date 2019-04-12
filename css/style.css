@@ -1,0 +1,88 @@
+
+.texto-inicial{
+    border: 2px solid #000;
+    padding: 10px 15px;
+}
+
+.botones-operacion{
+    float: right;
+}
+
+.mas_op{
+    margin-top: 30px;
+}
+
+.nuevos-datos .datos-agregados div{
+    margin-bottom: 10px;
+}
+
+.nuevos-datos .datos-agregados{
+    overflow: auto;
+    width: 100%;
+}
+
+.l-izq{
+    text-align: left!important;
+}
+
+.operaciones, .datos, .titulo, .bienes, .ultimo{
+    border: 2px solid #000;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+
+.bienes .nuevos-bienes .datos-bienes{
+    width: 25%;
+    float: left;
+    position: relative;
+}
+
+.bienes .nuevos-bienes .datos-bienes label{
+    text-align: center!important;
+}
+
+.nuevos-mbienes .mbienes-agregados div{
+    padding: 5px 0;
+}
+
+.acum, .acum2{
+    position: relative;
+    top: 32px;
+    right: 3px;
+}
+
+.firma-sello{
+    /*border: 2px solid #000;*/
+}
+.division-firma{
+    position: absolute;
+    left: 0;
+    width: 100%;
+    border-top: 1px solid #000;
+}
+
+.pa-nfirma{
+    border: 1px solid #000;
+    padding: 30px;
+    position: relative;
+}
+
+.division-vertical{
+    border-right: 1px solid #000;
+    position: absolute;
+    width: 35%;
+    top: 0;
+    height: 214px;
+    top: 0px;
+    color: #fff;
+}
+
+.acum2{
+    top: 65px;
+    float: left;
+    width: 100%;
+}
+
+.d-inmueble{
+    padding-bottom: 50px;
+}
